@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: sxsw Maven Webapp
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: hbsoft
+Implementation-Vendor-Id: com.hbsoft
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_102
+Main-Class: ${start-class}
+

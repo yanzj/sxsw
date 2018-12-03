@@ -1,0 +1,117 @@
+/*搜索文本框 样式*/
+.search_input_style {
+	border: 1px solid #D1D1D1;
+	border-radius: 5px;
+	height: 22px;
+	width: 120px;
+}
+
+/*条件排序 文字样式  eg:按身份证号排序↓*/
+.sort_style {
+	width: 115px;
+	line-height: 30px;
+	text-align: center;
+	color: #386CB5;
+	font-size: 14px;
+	float: left;
+}
+
+/* 列表  每一行div样式*/
+.item_style {
+	width: 98%;
+	border: 1px solid #D1D1D1;
+	border-radius: 5px;
+	margin-bottom: 10px;
+	padding: 6px;
+	padding-right: 0px;
+	background-color: #fafafa;
+}
+
+
+
+/*人员头像样式*/
+.controlps_img {
+	width: 100px;
+	height: 100px;
+}
+
+/*body样式*/
+.body_style
+{
+	padding-left: 15px;
+	 padding-top: 15px;
+}
+/*值样式*/
+.td_value {
+	color: black;
+	margin-left: 15px;
+	
+}
+/*标题样式*/
+.td_text {
+	color: #B6B6B6;
+}
+
+.anInfo_div_style {
+	background-color: #EAF4FE;
+	margin-bottom: 10px;
+	line-height: 25px;
+	padding-left: 3px;
+	padding-top: 3px;
+	padding-bottom: 3px
+}
+
+.info_value {
+	background-color: #BFD9FA;
+	padding-left: 10px;
+	padding-right: 10px;
+	height: 20px;
+	margin-left: 15px;
+	border-radius: 2px;
+}
+
+
+.title_value {
+	color: #EF7844;
+}
+
+/*页面底部提示文字样式*/
+.div_bottom
+{
+ clear: both;
+ width: 98%;display:none;text-align: center; margin-bottom: 20px;
+ font-size: 14px;
+}
+
+/*
+* 蓝色   预警对象，预警部门
+*/
+.ry_font {
+	color: #346DB2
+}
+/*
+* 管控类别显示
+*/
+.gk_span{
+	border-radius: 5px;
+	background-color: #F07844;
+	border: 1px solid #F07844;
+	color: white; 
+	margin-right: 10px;
+	padding:2px 10px;
+}
+/*
+*标签显示
+*/
+.sf_span_style {
+	width: 20px;
+	height: 20px;
+	margin-left:4px;
+	vertical-align: middle;
+}
+/*值样式*/
+.td_value_other {
+	color: black;
+	margin-left: 1px;
+	
+}

@@ -1,0 +1,75 @@
+@CHARSET "UTF-8";
+body{
+	width: 100%;
+	}
+
+/*打印*/
+.print_box_print1{
+	width: 98%;
+	background: #FFF;
+	border-radius: 12px;
+	font-size:12px;
+}
+.print_box_prin1t table{
+	width: 100%;
+}
+.print_box_print1 table tr{
+	border: none;
+}
+.print_box_print1 table tr td{
+	border: 1px solid #000;
+	height:28px;
+	line-height: 28px;
+	border-collapse: collapse;
+	text-align: center;
+	padding-left: 8px;
+	padding-right: 8px;
+	font-size: 12px;
+}
+.print_title{
+	width: 100%;
+	text-align: center;
+	padding-bottom: 20px;
+	}
+.print_button{
+	width: 100%;
+	padding: 40px;
+	text-align: center;
+}
+.print_box table tr td i{
+	padding: 2px 14px;
+}
+.print_date{
+	text-align: right;
+	vertical-align: bottom;
+	padding-right: 30px;
+	padding-bottom: 6px;
+}
+.pring_ins{
+	padding: 10px 0px;
+	line-height: 24px;
+	color:#222;
+}
+
+.print_box_print{
+	width: 95%;
+	background: #FFF;
+	border-radius: 12px;
+	font-size:12px;
+}
+.print_box_print table{
+	width: 100%;
+}
+.print_box_print table tr{
+	border: none;
+}
+.print_box_print table tr td{
+	border: 1px solid #000;
+	height:24px;
+	line-height: 24px;
+	border-collapse: collapse;
+	text-align: center;
+	padding-left: 8px;
+	padding-right: 8px;
+	font-size: 12px;
+}
